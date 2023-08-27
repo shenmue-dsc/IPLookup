@@ -5,7 +5,6 @@ from pystyle import *
 from colorama import *
 import time
 
-shenmue = "Le plus beau"
 os.system('clear' if os.name == 'posix' else 'cls')
 
 intro = """
