@@ -8,7 +8,7 @@ import time
 os.system('clear' if os.name == 'posix' else 'cls')
 
 intro = """
-                                                    By Shenmue & Sakunaxv2
+                                                    By Shenmue
 
                             ██╗██████╗     ██╗      ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██████╗ 
                             ██║██╔══██╗    ██║     ██╔═══██╗██╔═══██╗██║ ██╔╝██║   ██║██╔══██╗
